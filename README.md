@@ -62,7 +62,7 @@ openpyxl
 ## Installation
 1. Clone the repository:
 ```bash
-[git clone https://github.com/devanshdp04/E-commerceanalysis.git]
+git clone https://github.com/devanshdp04/E-commerceanalysis.git
 ```
 
 2. Install required packages:
@@ -102,9 +102,6 @@ viz.plot_customer_segments()
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Dataset source: UK Retail Dataset
