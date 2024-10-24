@@ -62,7 +62,7 @@ openpyxl
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/uk-retail-analysis.git
+[git clone https://github.com/devanshdp04/E-commerceanalysis.git]
 ```
 
 2. Install required packages:
