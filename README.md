@@ -17,14 +17,14 @@ The analysis is built for the UK Retail Dataset with the following key fields:
 ## Project Structure
 The project consists of two main Python modules:
 
-### 1. Data Processing Module (`data_processing.py`)
+### 1. Data Processing Module (`Analysis.py`)
 - Data loading and validation
 - Initial data cleaning and preprocessing
 - Basic statistical analysis
 - Dataset exploration capabilities
 - Data export functionality
 
-### 2. Visualization Analysis Module (`visualization_analysis.py`)
+### 2. Visualization Analysis Module (`VisualizationAnalysis.py`)
 - Customer segmentation analysis
 - Sales trend visualization
 - Hourly sales patterns
